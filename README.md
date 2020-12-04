@@ -13,6 +13,8 @@ I'm a 16 year old programmer currently living in Vienna.
 ## :blue_book: Currently learning
 
 - Kotlin
+- Java
+- React.js
 - C# 
 
 ## :rocket: Working on
