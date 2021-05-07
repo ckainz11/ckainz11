@@ -19,8 +19,8 @@ I'm a 17 year old programmer currently living in Vienna.
 
 ## :rocket: Working on
 
-Currently I am working on a school project called [PlanB](https://github.com/ckainz11/PlanB). It is a band managing tool developed with TS, React.js and Firebase.
-Also I am participating in the [Advent of Code 2020](https://github.com/ckainz11/AdventOfCode2020).
+Currently I am working on a school project called Deveo. It is a tool to create, share and view digital cards, that can be freely designed.
+
 
 ## :mailbox: Contact
   
