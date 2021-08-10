@@ -19,8 +19,7 @@ I'm a 17 year old programmer currently living in Vienna.
 
 ## :rocket: Working on
 
-Currently I am working on a school project called Deveo. It is a tool to create, share and view digital cards, that can be freely designed.
-
+Currently i'm working as an intern at Cloudflight in Vienna!
 
 ## :mailbox: Contact
   
