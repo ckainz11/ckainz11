@@ -19,7 +19,7 @@ I'm a 17 year old programmer currently living in Vienna.
 
 ## :rocket: Working on
 
-Currently i'm working as an intern at Cloudflight in Vienna!
+Currently i'm working on a school project for [NOMOO](https://nomoo.at/).
 
 ## :mailbox: Contact
   
