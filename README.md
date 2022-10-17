@@ -21,9 +21,8 @@ I'm an 18 year old programmer currently living in Vienna.
 
 ## :rocket: Working on
 
-Currently i'm working on a school project for [NOMOO](https://nomoo.at/) with [F2CM](https://f2cm.skyrocket.at/).
+Currently i'm working on a school project for Erste Digital.
 
 ## :mailbox: Contact
   
   - [LinkedIn](https://www.linkedin.com/in/christoph-kainz-4b37271ba/)
-
