@@ -1,10 +1,9 @@
 # Hey! :wave: 
 
-I'm an 18 year old programmer currently living in Vienna. 
+I'm an 19 year old programmer currently living in Vienna. 
 
 ## :turtle: Things I like
 
-- Java
 - Kotlin
 - Typescript
 - React.js
@@ -17,7 +16,6 @@ I'm an 18 year old programmer currently living in Vienna.
 - Java
 - React.js
 - Svelte
-- C# 
 
 ## :rocket: Working on
 
