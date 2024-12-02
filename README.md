@@ -19,7 +19,7 @@ I'm an 21 year old programmer currently living in Vienna.
 
 ## :rocket: Working on
 
-Currently i'm working on a school project for Erste Digital.
+Currently I am employed at dataspot. and working there as a software engineer
 
 ## :mailbox: Contact
   
