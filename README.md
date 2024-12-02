@@ -1,6 +1,6 @@
 # Hey! :wave: 
 
-I'm an 20 year old programmer currently living in Vienna. 
+I'm an 21 year old programmer currently living in Vienna. 
 
 ## :turtle: Things I like
 
