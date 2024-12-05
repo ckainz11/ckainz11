@@ -1,6 +1,6 @@
 # Hey! :wave: 
 
-I'm an 21 year old programmer currently living in Vienna. 
+I'm an 21 year old programmer from Vienna, Austria, where I study CS at TU Wien.
 
 ## :turtle: Things I like
 
